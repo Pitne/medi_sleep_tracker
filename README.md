@@ -16,4 +16,3 @@ After it you can do:
 
 - Press `a` for open in Android (need Android Studio/emulator) or expo on your mobile phone to run it
 - Press `w` for open web version
-~
